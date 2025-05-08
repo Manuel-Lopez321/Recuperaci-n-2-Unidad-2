@@ -21,24 +21,28 @@
 <img src="https://i.postimg.cc/FRF8Z9Fy/circuit-image-2.png" width="250"/>
 
 ## Video Demostrativo
+https://drive.google.com/file/d/1r3kQ4Al1XpUh11dau75pkPF9kyKEk29D/view?usp=drivesdk
 
 # Actividad 2: Comunicación Bluetooth con Control desde un Chatbot.
 ## Diagrama de conexión
 <img src="https://i.postimg.cc/g2trH0Kp/circuit-image-3.png" width="250"/>
 
 ## Video demostrativo
+https://drive.google.com/file/d/1vV0e2HvfWp_bRiFY8ZWX7TFEwnwCcyfT/view?usp=drivesdk
 
 # Actividad 3: Comunicación TCP/IP con Base de Datos.
 ## Diagrama de conexión
 <img src="https://i.postimg.cc/g2trH0Kp/circuit-image-3.png" width="250"/>
 
 ## Captura base de datos.
-<img src="https://i.postimg.cc/g2trH0Kp/circuit-image-3.png" width="250"/>
+<img src="https://i.postimg.cc/2jVJQgH6/3852-BF72-AF86-4896-A709-C5-EFC4771-A1-B.png" width="250"/>
 
 ## Video demostrativo
+https://drive.google.com/file/d/1Ck9SKMtMOIlcOkQ_O3KCrBf1a_SaXteF/view?usp=drivesdk
 
 # Actividad 4: Envío de Notificaciones con Discord Webhooks.
 ## Diagrama de conexión
 <img src="https://i.postimg.cc/gjYbXvQK/circuit-image-4.png" width="250"/>
 
 ## Video demostrativo
+https://drive.google.com/file/d/19iyVqG7IbjDkPDJVpzYsDB0nDWHFpDkr/view?usp=drivesdk
